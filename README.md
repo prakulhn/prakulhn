@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakul H N.
-- 👀 I’m interested in reading books, gardening, playing badminton, gaining technical knowledge.
+- 👀 I’m interested in gaining technical knowledge,playing badminton, reading books, gardening.
 - 🌱 I’m currently about to join engineering 
 - 📫 How to reach me: prakulhn04@gmail.com
                       https://www.linkedin.com/in/prakul-h-n-7784b6249
