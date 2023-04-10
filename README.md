@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Prakul H N.
 - 👀 I’m interested in gaining technical knowledge,coding.
-- 🌱 I’m currently about to join engineering 
+- 🌱 I’m currently pursuing B. E. in Artificial Intelligence and Machine Learning at Adichunchanagiri Institute of Technology, Chikkamagaluru.
 - 📫 How to reach me:
-Gmail- prakulhn04@gmail.com
-LinkedIn-https://www.linkedin.com/in/prakul-h-n-7784b6249
-GitHub- https://github.com/prakulhn
+
+Gmail- prakulhn04@gmail.com  
+LinkedIn-https://www.linkedin.com/in/prakul-h-n-7784b6249   
+GitHub- https://github.com/prakulhn   
 Twitter- https://twitter.com/hnprakul12?t=K0llkBSkkCli5TVk85K6fg&s=09
 
 <!---
