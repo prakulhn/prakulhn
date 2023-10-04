@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 
 Gmail- prakulhn04@gmail.com  
-LinkedIn- https://www.linkedin.com/in/mr-prakul-hirisave-nanjundegowda-7784b6249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+LinkedIn- https://lnkd.in/gNkGscps 
 GitHub- https://github.com/prakulhn   
 
 <!---
