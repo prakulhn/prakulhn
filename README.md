@@ -3,9 +3,9 @@
 - 🌱 I’m currently pursuing B. E. in Artificial Intelligence and Machine Learning at Adichunchanagiri Institute of Technology, Chikkamagaluru.
 - 📫 How to reach me:
 
-Gmail- prakulhn04@gmail.com  
-LinkedIn- https://lnkd.in/gNkGscps
-GitHub- https://github.com/prakulhn   
+• Gmail- prakulhn04@gmail.com  
+• LinkedIn- https://lnkd.in/gNkGscps
+• GitHub- https://github.com/prakulhn   
 
 <!---
 prakulhn/prakulhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
