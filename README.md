@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 
 Gmail- prakulhn04@gmail.com  
-LinkedIn- https://lnkd.in/gNkGscps 
+LinkedIn- https://lnkd.in/gNkGscps
 GitHub- https://github.com/prakulhn   
 
 <!---
