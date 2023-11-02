@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakul H N.
-- 👀 I’m interested in gaining technical knowledge and coding.
+- 👀 I’m passionate about Data Science and started with Python/
 - 🌱 I’m currently pursuing B. E. in Artificial Intelligence and Machine Learning at Adichunchanagiri Institute of Technology, Chikkamagaluru.
 - 📫 How to reach me:
 
