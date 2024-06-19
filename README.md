@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Prakul H N.
-- 👀 I’m passionate about Data Science and started with Python.
+- 👀 I’m passionate about Data Analysis and love to dwele eep in to the domain.
 - 🌱 I’m currently pursuing B. E. in Artificial Intelligence and Machine Learning at Adichunchanagiri Institute of Technology, Chikkamagaluru.
 - 📫 How to reach me:
 
 • Gmail- prakulhn04@gmail.com  
-• LinkedIn- https://www.linkedin.com/in/prakul-hirisave-nanjundegowda-7784b6249/
+• LinkedIn- https://www.linkedin.com/in/prakul-h-n-7784b6249/
 
 <!---
 prakulhn/prakulhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
