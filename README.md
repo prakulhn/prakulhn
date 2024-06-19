@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prakul H N.
-- 👀 I’m passionate about Data Analysis and love to dwele eep in to the domain.
+- 👀 I’m passionate about Data Analysis and love to dwele deep into the domain.
 - 🌱 I’m currently pursuing B. E. in Artificial Intelligence and Machine Learning at Adichunchanagiri Institute of Technology, Chikkamagaluru.
 - 📫 How to reach me:
 
